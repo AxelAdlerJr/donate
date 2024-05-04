@@ -415,3 +415,11 @@ h6 {
 .tet2 {
     background: #d9e3ea;
 }
+@media (min-width: 768px) {
+    .wrapper {
+        max-width: 480px; 
+        margin: 0 auto; 
+        background-color: #fff; 
+    }
+}
+
